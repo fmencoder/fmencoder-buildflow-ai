@@ -3,13 +3,13 @@ const steps = [
     step: "01",
     title: "Connect your existing tools",
     description:
-      "Import your job history, client list, and favourite templates in minutes. BuildFlow AI learns from your past projects to make smarter recommendations from day one.",
+      "Import your job history, client list, and favorite templates in minutes. BuildFlow AI learns from your past projects to make smarter recommendations from day one.",
   },
   {
     step: "02",
     title: "Generate your first AI bid",
     description:
-      "Enter the project details and let BuildFlow AI draft a complete, itemised bid. Review, tweak, and send—all without ever opening a spreadsheet.",
+      "Enter the project details and let BuildFlow AI draft a complete, itemized bid. Review, tweak, and send—all without ever opening a spreadsheet.",
   },
   {
     step: "03",

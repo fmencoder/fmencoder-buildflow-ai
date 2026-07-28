@@ -13,7 +13,7 @@ const testimonials = [
   },
   {
     quote:
-      "I was sceptical of AI for construction, but the bid quality is genuinely impressive. It even catches scope items I'd normally miss.",
+      "I was skeptical of AI for construction, but the bid quality is genuinely impressive. It even catches scope items I'd normally miss.",
     author: "James R.",
     role: "Principal, Riverside Renovations",
   },

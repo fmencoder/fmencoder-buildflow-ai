@@ -18,7 +18,7 @@ npm run dev
 
 ## Brand Configuration
 
-All brand copy (name, tagline, description, URLs, colours) is centralised in [`lib/brand.ts`](lib/brand.ts).
+All brand copy (name, tagline, description, URLs, colors) is centralized in [`lib/brand.ts`](lib/brand.ts).
 
 ## Landing Page Sections
 

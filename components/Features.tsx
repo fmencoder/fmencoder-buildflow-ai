@@ -21,7 +21,7 @@ const features = [
     icon: "💬",
     title: "Client Communication Hub",
     description:
-      "Centralise client messages, approvals, and updates. Never let an important email slip through the cracks again.",
+      "Centralize client messages, approvals, and updates. Never let an important email slip through the cracks again.",
   },
   {
     icon: "⚡",
@@ -33,7 +33,7 @@ const features = [
     icon: "📈",
     title: "Revenue Analytics",
     description:
-      "See exactly where your money comes from and where it goes. Identify your most profitable project types and optimise your pipeline.",
+      "See exactly where your money comes from and where it goes. Identify your most profitable project types and optimize your pipeline.",
   },
 ];
 

@@ -174,8 +174,7 @@ export default function Pricing() {
           </ul>
 
           <p className="mt-6 text-xs text-gray-400">
-            PayPal integration is available on Pro and Enterprise plans. Stripe powers all card
-            transactions. All payments are processed securely with 256-bit SSL encryption.
+            PayPal integration is available on Pro and Enterprise plans. Stripe powers all card transactions. All payments are processed securely with 256-bit SSL encryption.
           </p>
         </div>
       </div>
